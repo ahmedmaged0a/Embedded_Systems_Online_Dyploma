@@ -1,0 +1,3 @@
+/home/maged/CLionProjects/Exercise_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maged/CLionProjects/Exercise_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maged/CLionProjects/Exercise_7/cmake-build-debug/CMakeFiles/Exercise_7.dir
