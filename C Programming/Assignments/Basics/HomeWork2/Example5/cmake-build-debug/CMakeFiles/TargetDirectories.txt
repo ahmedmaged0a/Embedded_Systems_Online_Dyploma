@@ -1,0 +1,3 @@
+/home/maged/CLionProjects/Example5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maged/CLionProjects/Example5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maged/CLionProjects/Example5/cmake-build-debug/CMakeFiles/Example5.dir
