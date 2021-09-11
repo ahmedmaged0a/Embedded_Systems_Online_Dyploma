@@ -54,10 +54,10 @@ RM = /var/lib/snapd/snap/clion/163/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/maged/CLionProjects/Exercise3
+CMAKE_SOURCE_DIR = "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise3"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/maged/CLionProjects/Exercise3/cmake-build-debug
+CMAKE_BINARY_DIR = "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise3/cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/Exercise3.dir/clean
 CMakeFiles/Exercise3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise3.dir/build.make CMakeFiles/Exercise3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exercise3.dir/build.make CMakeFiles/Exercise3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/maged/CLionProjects/Exercise3/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Exercise3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise3/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target Exercise3"
 .PHONY : CMakeFiles/Exercise3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Exercise3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maged/CLionProjects/Exercise3/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise3/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Exercise3.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maged/CLionProjects/Exercise3/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise3/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Exercise3.dir/rule
 
 # Convenience name for target.

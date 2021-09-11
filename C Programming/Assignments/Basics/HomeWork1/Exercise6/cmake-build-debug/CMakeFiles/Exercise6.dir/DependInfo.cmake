@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/maged/CLionProjects/Exercise6/main.c" "/home/maged/CLionProjects/Exercise6/cmake-build-debug/CMakeFiles/Exercise6.dir/main.c.o"
+  "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise6/main.c" "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise6/cmake-build-debug/CMakeFiles/Exercise6.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

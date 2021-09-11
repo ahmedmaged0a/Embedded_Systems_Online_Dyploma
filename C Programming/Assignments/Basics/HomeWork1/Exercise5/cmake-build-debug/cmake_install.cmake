@@ -1,4 +1,4 @@
-# Install script for directory: /home/maged/CLionProjects/Exercise5
+# Install script for directory: /home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise5
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/maged/CLionProjects/Exercise5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

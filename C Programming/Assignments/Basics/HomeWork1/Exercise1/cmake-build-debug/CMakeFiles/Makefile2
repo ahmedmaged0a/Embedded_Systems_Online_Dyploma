@@ -54,10 +54,10 @@ RM = /var/lib/snapd/snap/clion/163/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/maged/CLionProjects/Example1
+CMAKE_SOURCE_DIR = "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/maged/CLionProjects/Example1/cmake-build-debug
+CMAKE_BINARY_DIR = "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise1/cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/Example1.dir/clean
 CMakeFiles/Example1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Example1.dir/build.make CMakeFiles/Example1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Example1.dir/build.make CMakeFiles/Example1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/maged/CLionProjects/Example1/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Example1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise1/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target Example1"
 .PHONY : CMakeFiles/Example1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Example1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maged/CLionProjects/Example1/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise1/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Example1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maged/CLionProjects/Example1/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise1/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Example1.dir/rule
 
 # Convenience name for target.

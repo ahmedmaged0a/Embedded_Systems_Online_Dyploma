@@ -1,3 +1,3 @@
-/home/maged/CLionProjects/Exercise4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/maged/CLionProjects/Exercise4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/maged/CLionProjects/Exercise4/cmake-build-debug/CMakeFiles/Exercise4.dir
+/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/CMakeFiles/Exercise4.dir

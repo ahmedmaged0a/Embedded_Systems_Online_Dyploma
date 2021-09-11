@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/maged/CLionProjects/Exercise4/cmake-build-debug"/>
+				<Option working_dir="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/maged/CLionProjects/Exercise4/cmake-build-debug"/>
+				<Option working_dir="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/maged/CLionProjects/Exercise4/cmake-build-debug"/>
+				<Option working_dir="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Exercise4">
-				<Option output="/home/maged/CLionProjects/Exercise4/cmake-build-debug/Exercise4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/maged/CLionProjects/Exercise4/cmake-build-debug"/>
+				<Option output="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Exercise4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -50,15 +50,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise4"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Exercise4/fast">
-				<Option output="/home/maged/CLionProjects/Exercise4/cmake-build-debug/Exercise4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/maged/CLionProjects/Exercise4/cmake-build-debug"/>
+				<Option output="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Exercise4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -69,17 +69,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise4/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/CLionProjects/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exercise4/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/maged/github/C\ Programming/Assignments/Basics/HomeWork1/Exercise4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/maged/CLionProjects/Exercise4/main.c">
+		<Unit filename="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/main.c">
 			<Option target="Exercise4"/>
 		</Unit>
-		<Unit filename="/home/maged/CLionProjects/Exercise4/CMakeLists.txt">
+		<Unit filename="/home/maged/github/C Programming/Assignments/Basics/HomeWork1/Exercise4/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
