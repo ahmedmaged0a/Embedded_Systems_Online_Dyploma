@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bayer/CLionProjects/Stack_LIFO/main.c
+stdio.h
+-
+stack.h
+C:/Users/bayer/CLionProjects/Stack_LIFO/stack.h
+
+C:/Users/bayer/CLionProjects/Stack_LIFO/stack.h
+

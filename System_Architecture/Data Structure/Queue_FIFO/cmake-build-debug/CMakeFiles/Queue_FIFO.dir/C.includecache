@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bayer/CLionProjects/Queue_FIFO/Queue.h
+
+C:/Users/bayer/CLionProjects/Queue_FIFO/main.c
+stdio.h
+-
+Queue.h
+C:/Users/bayer/CLionProjects/Queue_FIFO/Queue.h
+

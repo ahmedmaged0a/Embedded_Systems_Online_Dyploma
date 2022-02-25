@@ -1,0 +1,3 @@
+C:/Users/bayer/CLionProjects/Queue_FIFO/cmake-build-debug/CMakeFiles/Queue_FIFO.dir
+C:/Users/bayer/CLionProjects/Queue_FIFO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bayer/CLionProjects/Queue_FIFO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

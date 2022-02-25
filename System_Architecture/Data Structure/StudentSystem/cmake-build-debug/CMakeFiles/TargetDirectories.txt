@@ -1,0 +1,3 @@
+C:/Users/bayer/CLionProjects/StudentSystem/cmake-build-debug/CMakeFiles/StudentSystem.dir
+C:/Users/bayer/CLionProjects/StudentSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bayer/CLionProjects/StudentSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

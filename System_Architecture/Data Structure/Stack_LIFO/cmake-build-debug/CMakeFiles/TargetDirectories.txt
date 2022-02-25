@@ -1,0 +1,3 @@
+C:/Users/bayer/CLionProjects/Stack_LIFO/cmake-build-debug/CMakeFiles/Stack_LIFO.dir
+C:/Users/bayer/CLionProjects/Stack_LIFO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bayer/CLionProjects/Stack_LIFO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
