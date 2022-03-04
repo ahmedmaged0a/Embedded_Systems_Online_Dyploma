@@ -1,0 +1,3 @@
+C:/Users/bayer/CLionProjects/unit4_Lesson2/cmake-build-debug/CMakeFiles/unit4_Lesson2.dir
+C:/Users/bayer/CLionProjects/unit4_Lesson2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bayer/CLionProjects/unit4_Lesson2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

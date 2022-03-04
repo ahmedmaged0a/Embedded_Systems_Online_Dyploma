@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bayer/CLionProjects/unit4_Lesson2/CA.c
+CA.h
+C:/Users/bayer/CLionProjects/unit4_Lesson2/CA.h
+
+C:/Users/bayer/CLionProjects/unit4_Lesson2/CA.h
+state.h
+C:/Users/bayer/CLionProjects/unit4_Lesson2/state.h
+
+C:/Users/bayer/CLionProjects/unit4_Lesson2/main.c
+stdio.h
+-
+CA.h
+C:/Users/bayer/CLionProjects/unit4_Lesson2/CA.h
+
+C:/Users/bayer/CLionProjects/unit4_Lesson2/state.h
+stdio.h
+C:/Users/bayer/CLionProjects/unit4_Lesson2/stdio.h
+stdlib.h
+C:/Users/bayer/CLionProjects/unit4_Lesson2/stdlib.h
+
